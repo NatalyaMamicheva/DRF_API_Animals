@@ -1,5 +1,7 @@
 # DRF_API_Animals
 
+Проект Animals по добавлению животных к имеющимся видам, с возможностью тестирования PUT/PATCH, POST, GET, DETAIL, DELETE запросов.
+
 Создать
 
 
@@ -21,3 +23,6 @@
 с помощью DRF, связав с PostgreSQL
 
 и протестировать PUT/PATCH, POST, GET, DETAIL, DELETE запросы через Postman.
+
+
+Стек технологий: Python, Django, DRF, PostgreSQL, Postman
