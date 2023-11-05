@@ -25,4 +25,5 @@
 и протестировать PUT/PATCH, POST, GET, DETAIL, DELETE запросы через Postman.
 
 
+
 Стек технологий: Python, Django, DRF, PostgreSQL, Postman
